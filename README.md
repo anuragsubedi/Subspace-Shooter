@@ -52,5 +52,16 @@ The view port of the game has to move along with the player. Thus, this activity
 The game objects: player and enemy are animated using this animated module. The animation is done using 3 static images from the sprite sheet.
 
 
+# How to play
+
+To start the game, you must compile and run the <strong>Game.java</strong> class in the src folder.
+
+#### Once the game has started: 
+1. You can aim the gun with your mouse and press the left-click button to shoot.
+2. An enemy dies when it is hit twice by the bullet.
+3. You lose 25 health when you collide with an enemy. (Your total health is 100, it is shown as a HUD in top left corner)
+4. You have a limited amount of ammo, the remaining ammo is also shown as HUD in the top left corner.
+5. There are lootboxes and health crates in random places of the room which can be picked up to refill ammo and regenerate health.
+
 
 
