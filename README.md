@@ -9,7 +9,8 @@ The pixels of the png file is read and stored using a double for-loop. Depending
 
 
 # Sprite-Sheet
-![alt text](https://github.com/[anuragsubedi]/[Subspace-Shooter]/blob/main/res/sprite_sheet.png?raw=true)
+![sprite_sheet](https://user-images.githubusercontent.com/43778235/124569310-8d61eb80-de65-11eb-92be-4bb7cffe9029.png)
+</br>
 The spritesheet used for the game is a 192x64 pixel png image with 3 static images:
 1. Player image of size 32x48, 
 2. 3 static images of size 32x32 of the enemy and 
